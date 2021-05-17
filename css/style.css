@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+}
+.header{
+overflow: hidden;
+}
+.logo{
+height: 90px;
+width: 20%;
+background-color: rgb(146, 74, 74);
+text-align: center;
+float: left;
+}
+.menu{
+    height: 90px;
+    width: 80%;
+    background-color: rgb(241, 122, 122);
+    text-align: center;
+    float: right;
+}
+.header_bar{
+    height: 80px;
+    background-color: rgb(25, 101, 114);
+    text-align: center;
+}
+.content{
+overflow: hidden;
+}
+.left{
+    width: 20%;
+    height: 500px;
+    background-color: rgb(192, 63, 24);
+    float: left;
+    text-align: center;
+}
+.center{
+    width: 60%;
+    height: 500px;
+    background-color: rgb(230, 153, 130);
+    float: left;
+    text-align: center;
+}
+.right{
+    width: 20%;
+    height: 500px;
+    background-color: rgb(182, 61, 24);
+    float: left;
+    text-align: center;
+}
+.top{
+  height: 150px;
+  background-color: rgb(15, 38, 114);
+  text-align: center;
+}
+.middle{
+    height: 200px;
+    background-color: rgb(93, 104, 143);
+    overflow: hidden;
+    text-align: center;
+}
+.bottom{
+    height: 150px;
+    background-color: rgb(15, 38, 114);
+    text-align: center;
+}
+.middle_left{
+   width: 50%;
+   background-color: rgb(160, 27, 131);
+   float: left;
+   height: 100%;
+   text-align: center;
+}
+.middle_right{
+    width: 50%;
+    background-color: rgb(27, 151, 160);
+    float: right;
+    height: 100%;
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    background-color: cyan;
+    text-align: center;
+}
